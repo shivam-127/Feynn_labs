@@ -1,0 +1,175 @@
+state,district,modal_price
+Andaman and Nicobar,South Andaman,14073.333333333334
+Andhra Pradesh,Chittor,560.0
+Andhra Pradesh,Kurnool,2816.6666666666665
+Andhra Pradesh,West Godavari,1760.0
+Assam,Cachar,4066.6666666666665
+Assam,Darrang,1850.0
+Assam,Dhubri,3458.75
+Assam,Jorhat,3650.0
+Assam,Kamrup,1975.0
+Assam,Sonitpur,2650.0
+Chattisgarh,Bastar,4200.0
+Chattisgarh,Kanker,1500.0
+Chattisgarh,Surajpur,4900.0
+Goa,North Goa,20750.0
+Gujarat,Amreli,1370.0
+Gujarat,Anand,2988.3333333333335
+Gujarat,Bharuch,2265.0
+Gujarat,Kachchh,4010.0
+Gujarat,Kheda,1075.0
+Gujarat,Panchmahals,2475.0
+Gujarat,Surat,2267.032258064516
+Gujarat,Vadodara(Baroda),2349.264705882353
+Gujarat,Valsad,3843.75
+Haryana,Ambala,2350.3333333333335
+Haryana,Faridabad,2050.0
+Haryana,Gurgaon,1694.1176470588234
+Haryana,Kurukshetra,296.0
+Haryana,Mewat,3266.6666666666665
+Haryana,Panipat,1200.0
+Himachal Pradesh,Kangra,3384.6666666666665
+Himachal Pradesh,Kullu,3482.222222222222
+Jammu and Kashmir,Badgam,1216.6666666666667
+Karnataka,Bangalore,2532.608695652174
+Karnataka,Kolar,1805.5833333333333
+Karnataka,Tumkur,9000.0
+Kerala,Alappuzha,3588.8888888888887
+Kerala,Ernakulam,2730.0
+Kerala,Kannur,15508.333333333334
+Kerala,Kasargod,6143.90243902439
+Kerala,Kollam,3996.0526315789475
+Kerala,Kottayam,3062.0689655172414
+Kerala,Malappuram,2953.846153846154
+Kerala,Thirssur,2830.9859154929577
+Kerala,Thiruvananthapuram,3173.076923076923
+Madhya Pradesh,Anupur,1750.0
+Madhya Pradesh,Badwani,735.7142857142857
+Madhya Pradesh,Dhar,1757.142857142857
+Madhya Pradesh,Dindori,3075.0
+Madhya Pradesh,Jhabua,1904.0625
+Madhya Pradesh,Khandwa,1300.0
+Madhya Pradesh,Narsinghpur,1133.3333333333333
+Madhya Pradesh,Sheopur,1220.0
+Maharashtra,Ahmednagar,2200.0
+Maharashtra,Buldhana,5300.0
+Maharashtra,Jalgaon,2438.0
+Maharashtra,Kolhapur,2273.214285714286
+Maharashtra,Nagpur,3982.5
+Maharashtra,Nanded,3687.75
+Maharashtra,Nashik,351.0
+Maharashtra,Pune,1724.8202247191011
+Maharashtra,Satara,2328.5666666666666
+Maharashtra,Sholapur,1873.0833333333333
+Manipur,Bishnupur,3815.0
+Manipur,Chandel,4177.777777777777
+Manipur,Imphal East,4630.0
+Manipur,Imphal West,4550.0
+Manipur,Thoubal,4689.583333333333
+Meghalaya,East Khasi Hills,9391.666666666666
+Nagaland,Mokokchung,2183.3333333333335
+Odisha,Angul,600.0
+Odisha,Balasore,2180.0
+Odisha,Bargarh,1750.0
+Odisha,Dhenkanal,2100.0
+Odisha,Gajapati,2242.8571428571427
+Odisha,Ganjam,1840.0
+Odisha,Jharsuguda,1100.0
+Odisha,Mayurbhanja,2066.6666666666665
+Odisha,Nowarangpur,1533.3333333333333
+Odisha,Sundergarh,3351.4814814814813
+Pondicherry,Karaikal,3928.4285714285716
+Punjab,Amritsar,825.0
+Punjab,Barnala,700.0
+Punjab,Bhatinda,975.0
+Punjab,Gurdaspur,897.6923076923077
+Punjab,Hoshiarpur,2065.0
+Punjab,Jalandhar,1496.969696969697
+Punjab,Ludhiana,1294.4444444444443
+Punjab,Mansa,2400.625
+Punjab,Muktsar,2646.0
+Punjab,Patiala,1485.0
+Punjab,Ropar (Rupnagar),2116.25
+Punjab,Tarntaran,1318.888888888889
+Rajasthan,Baran,3443.0
+Rajasthan,Barmer,4225.0
+Rajasthan,Bikaner,4152.5
+Rajasthan,Chittorgarh,1750.0
+Rajasthan,Jalore,2237.5
+Rajasthan,Jhalawar,3037.6666666666665
+Rajasthan,Kota,3272.0
+Rajasthan,Sikar,3327.4
+Rajasthan,Tonk,2466.5
+Tamil Nadu,Coimbatore,3832.3809523809523
+Tamil Nadu,Cuddalore,4012.5714285714284
+Tamil Nadu,Dharmapuri,4150.0
+Tamil Nadu,Dindigul,1616.6666666666667
+Tamil Nadu,Erode,6643.333333333333
+Tamil Nadu,Kancheepuram,1486.0
+Tamil Nadu,Krishnagiri,2850.0
+Tamil Nadu,Madurai,3023.3333333333335
+Tamil Nadu,Nagercoil (Kannyiakumari),10500.0
+Tamil Nadu,Namakkal,6812.857142857143
+Tamil Nadu,Ramanathapuram,1810.0
+Tamil Nadu,Salem,4177.727272727273
+Tamil Nadu,Sivaganga,950.0
+Tamil Nadu,Thanjavur,1912.857142857143
+Tamil Nadu,Thiruvannamalai,3141.3333333333335
+Tamil Nadu,Vellore,3593.4
+Tamil Nadu,Villupuram,4045.507462686567
+Tamil Nadu,Virudhunagar,1737.5
+Telangana,Hyderabad,5500.0
+Telangana,Karimnagar,5151.666666666667
+Telangana,Khammam,440.0
+Telangana,Nalgonda,1763.3333333333333
+Telangana,Nizamabad,1750.0
+Telangana,Ranga Reddy,590.0
+Tripura,North Tripura,5550.0
+Tripura,Sepahijala,3471.4285714285716
+Tripura,South District,1300.0
+Uttar Pradesh,Agra,1659.1463414634147
+Uttar Pradesh,Aligarh,845.0
+Uttar Pradesh,Allahabad,1416.6666666666667
+Uttar Pradesh,Baghpat,1561.7857142857142
+Uttar Pradesh,Bahraich,1901.0526315789473
+Uttar Pradesh,Ballia,2070.0
+Uttar Pradesh,Bhadohi(Sant Ravi Nagar),1860.0
+Uttar Pradesh,Bulandshahar,915.0
+Uttar Pradesh,Chitrakut,3105.0
+Uttar Pradesh,Etah,1308.125
+Uttar Pradesh,Etawah,768.1818181818181
+Uttar Pradesh,Farukhabad,1316.6666666666667
+Uttar Pradesh,Fatehpur,1672.5
+Uttar Pradesh,Gautam Budh Nagar,600.0
+Uttar Pradesh,Ghaziabad,2856.818181818182
+Uttar Pradesh,Jalaun (Orai),1877.5
+Uttar Pradesh,Jhansi,2813.0
+Uttar Pradesh,Kannuj,2852.5
+Uttar Pradesh,Kanpur,2867.7916666666665
+Uttar Pradesh,Khiri (Lakhimpur),1068.75
+Uttar Pradesh,Lakhimpur,2492.3076923076924
+Uttar Pradesh,Mahoba,3268.75
+Uttar Pradesh,Mau(Maunathbhanjan),3311.6666666666665
+Uttar Pradesh,Mirzapur,3665.75
+Uttar Pradesh,Muradabad,998.0
+Uttar Pradesh,Muzaffarnagar,1597.3469387755101
+Uttar Pradesh,Raebarelli,1125.0
+Uttar Pradesh,Rampur,1916.6666666666667
+Uttar Pradesh,Saharanpur,1237.1518987341772
+Uttar Pradesh,Shahjahanpur,650.0
+Uttar Pradesh,Sitapur,1598.3333333333333
+Uttar Pradesh,Sonbhadra,1909.1666666666667
+Uttrakhand,Dehradoon,1139.4736842105262
+Uttrakhand,UdhamSinghNagar,787.5
+West Bengal,Bankura,1866.6666666666667
+West Bengal,Burdwan,3223.9473684210525
+West Bengal,Hooghly,1665.0
+West Bengal,Jalpaiguri,1691.6666666666667
+West Bengal,Malda,2717.8571428571427
+West Bengal,Medinipur(W),3592.8571428571427
+West Bengal,Murshidabad,2659.5
+West Bengal,Nadia,2627.777777777778
+West Bengal,North 24 Parganas,2370.0
+West Bengal,Puruliya,3373.0
+West Bengal,Sounth 24 Parganas,3120.8333333333335
+West Bengal,Uttar Dinajpur,3141.6666666666665
